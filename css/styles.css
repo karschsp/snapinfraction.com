@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Sanchez');
 
 body {
-    background: url('/img/chin_music_background.jpg') 50% 0 no-repeat;
+    background: url('/img/opt/chin_music_background.jpg') 50% 0 no-repeat;
     color: rgba(255,255,255,0.8);
     background-color: #000;
     text-align: left;
@@ -30,7 +30,7 @@ strong {
 #container {
     /* display: flex;
     display: -webkit-flex; */
-    background: url('/img/crowd.jpg') 0 80% no-repeat;
+    background: url('/img/opt/crowd.jpg') 0 80% no-repeat;
     width: 100%;
     margin-left: auto;
     margin-right: auto;
@@ -101,22 +101,22 @@ h3 {
     box-shadow: inset 0px 20px 40px 0px #000000;        
 }
 #slide1 {
-    background: url('/img/session-01.jpg') 50% 11% no-repeat fixed;
+    background: url('/img/opt/session-01.jpg') 50% 11% no-repeat fixed;
 }
 #slide2 {
-    background: url('/img/steve-les-paul.jpg') 50% 0 no-repeat fixed;
+    background: url('/img/opt/steve-les-paul.jpg') 50% 0 no-repeat fixed;
 }
 #slide3 {
-    background: url('/img/tony-drums.jpg') 50% 0 no-repeat fixed;
+    background: url('/img/opt/tony-drums.jpg') 50% 0 no-repeat fixed;
 }
 #slide4 {
-    background: url('/img/continental.jpg') 50% 0 no-repeat fixed;
+    background: url('/img/opt/continental.jpg') 50% 0 no-repeat fixed;
 }
 #slide5 {
-    background: url('/img/ringo-drums.jpg') 50% 0 no-repeat fixed;
+    background: url('/img/opt/ringo-drums.jpg') 50% 0 no-repeat fixed;
 }
 #slide6 {
-    background: url('/img/tony-mixing.jpg') 50% 0 no-repeat fixed;
+    background: url('/img/opt/tony-mixing.jpg') 50% 0 no-repeat fixed;
 }
 .content {
     width: 100%;
@@ -154,22 +154,22 @@ footer.content {
         height: 100%;
     }
     #slide1 {
-        background: url('/img/session-01.jpg');
+        background: url('/img/opt/session-01.jpg');
     }
     #slide2 {
-        background: url('/img/steve-les-paul.jpg');
+        background: url('/img/opt/steve-les-paul.jpg');
     }
     #slide3 {
-        background: url('/img/tony-drums.jpg');
+        background: url('/img/opt/tony-drums.jpg');
     }
     #slide4 {
-        background: url('/img/continental.jpg');
+        background: url('/img/opt/continental.jpg');
     }
     #slide5 {
-        background: url('/img/ringo-drums.jpg');
+        background: url('/img/opt/ringo-drums.jpg');
     }
     #slide6 {
-    bottom: ;ackground: url('/img/tony-mixing.jpg');
+    bottom: ;ackground: url('/img/opt/tony-mixing.jpg');
     }             
     #follow li a img {
         width: 75px;
@@ -186,22 +186,22 @@ footer.content {
         height: 100%;
     }   
     #slide1 {
-        background: url('/img/session-01.jpg') 60% 5% no-repeat fixed;
+        background: url('/img/sopt/ession-01.jpg') 60% 5% no-repeat fixed;
     }
     #slide2 {
-        background: url('/img/steve-les-paul.jpg') 50% 25% no-repeat fixed;
+        background: url('/img/opt/steve-les-paul.jpg') 50% 25% no-repeat fixed;
     }
     #slide3 {
-        background: url('/img/tony-drums.jpg') 50% 25% no-repeat fixed;
+        background: url('/img/opt/tony-drums.jpg') 50% 25% no-repeat fixed;
     }
     #slide4 {
-        background: url('/img/continental.jpg') 50% 25% no-repeat fixed;
+        background: url('/img/opt/continental.jpg') 50% 25% no-repeat fixed;
     }
     #slide5 {
-        background: url('/img/ringo-drums.jpg') 50% 25% no-repeat fixed;
+        background: url('/img/opt/ringo-drums.jpg') 50% 25% no-repeat fixed;
     }
     #slide6 {
-        background: url('/img/tony-mixing.jpg') 50% 25% no-repeat fixed;
+        background: url('/img/opt/tony-mixing.jpg') 50% 25% no-repeat fixed;
     }             
     #follow li a img {
         width: 75px;

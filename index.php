@@ -152,14 +152,14 @@
         </h3>
         <ul id="follow" class="links">
           <li>
-            <a href="https://twitter.com/snapinfraction"><img src="/img/twitter-icon.png" alt="Follow @snapinfraction on Twitter" /></a>
+            <a href="https://twitter.com/snapinfraction"><img src="/img/opt/twitter-icon.png" alt="Follow @snapinfraction on Twitter" /></a>
           </li>
           <li>
-            <a href="https://facebook.com/snapinfraction"><img src="/img/fb-icon.png" alt="Follow @snapinfraction on Facebook" /></a>
+            <a href="https://facebook.com/snapinfraction"><img src="/img/opt/fb-icon.png" alt="Follow @snapinfraction on Facebook" /></a>
           </li>
           <li>
             <a href="https://instagram.com/snapinfraction" class="instagram-follow-button">
-              <img src="/img/instagram-icon.png" />
+              <img src="/img/opt/instagram-icon.png" />
             </a>
           </li>
           <!-- li>
