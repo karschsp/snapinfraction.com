@@ -13,7 +13,7 @@
     <meta property="og:type" content="website"/>
     <meta property="og:title" content="Snap Infraction - Chin Music"/>
     <meta property="og:url" content="http://snapinfraction.com/"/>
-    <meta property="og:description" content="Independent rock n roll from Philadephia, PA. Debut EP &#39;Chin Music&#39; now available at online retailers everywhere."/>
+    <meta property="og:description" content="Snap Infraction - independent rock n roll from Philadephia, PA. Debut EP &#39;Chin Music&#39; now available at online retailers everywhere."/>
     <meta property="og:updated_time" content="2017-04-01T09:00:02-04:00"/>
     <meta property="og:image" content="http://www.snapinfraction.com/img/snap_chin_music_cover.jpg"/>
     <meta name="twitter:card" content="summary"/>
