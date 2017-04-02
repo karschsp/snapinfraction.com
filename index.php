@@ -196,7 +196,7 @@
           </li>
           <li>
             <a href="https://instagram.com/snapinfraction" class="instagram-follow-button">
-              <img src="/img/opt/instagram-icon.png" />
+              <img src="/img/opt/instagram-icon.png" alt="Follow @snapinfraction on Instagram" />
             </a>
           </li>
           <!-- li>
