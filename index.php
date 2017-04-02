@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <title>Snap Infraction - Chin Music
     </title>
-    <meta name="description" content="Independent rock n roll from Philadephia, PA. Debut EP &#39;Chin Music&#39; now available at online retailers everywhere.">
-    <meta name="keywords" content="music, powerpop, rock n roll, alternative, rock, philadelphia, steve karsch, tony iannuzzi, guitar bass drums, debut">    
+    <meta name="description" content="Independent alternative rock n roll from Philadephia, PA. Debut EP &#39;Chin Music&#39; now available at online retailers everywhere.">
+    <meta name="keywords" content="snap infraction, music, powerpop, rock n roll, alternative, rock, philadelphia, steve karsch, tony iannuzzi, guitar bass drums, debut, EP, chin music">    
     <meta name="author" content="Snap Infraction">
     <meta name="pub_date" content="April 01, 2017"/>
 
