@@ -1,7 +1,7 @@
 <?php
 $page_title = "Chin Music";
 $pub_date = "2017-04-01T09:00:02-04:00";
-require_once('/includes/header.php');
+require_once($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
 ?>
       <div class="content">
         <h1>Snap Infraction
@@ -159,4 +159,4 @@ require_once('/includes/header.php');
       </div>
       <div id="slide6">
       </div>
-<?php require_once('/includes/footer.php'); ?>
+<?php require_once($_SERVER['DOCUMENT_ROOT'] . '/includes/footer.php'); ?>
