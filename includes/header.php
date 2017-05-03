@@ -52,3 +52,23 @@
   </head>
   <body>
     <div id="container">
+      <div class="content">
+        <h1>Snap Infraction
+        </h1>
+        <h2>Chin Music
+        </h2>
+        <ul id="menu">
+          <li>
+            <a href="#music">Music
+            </a>
+          </li>
+          <li>
+            <a href="#bio">Bio
+            </a>
+          </li>
+          <li>
+            <a href="#follow">Follow
+            </a>
+          </li>
+        </ul>
+      </div>

@@ -3,26 +3,6 @@ $page_title = "Chin Music";
 $pub_date = "2017-04-01T09:00:02-04:00";
 require_once($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
 ?>
-      <div class="content">
-        <h1>Snap Infraction
-        </h1>
-        <h2>Chin Music
-        </h2>
-        <ul id="menu">
-          <li>
-            <a href="#music">Music
-            </a>
-          </li>
-          <li>
-            <a href="#bio">Bio
-            </a>
-          </li>
-          <li>
-            <a href="#follow">Follow
-            </a>
-          </li>
-        </ul>
-      </div>
       <div id="slide1">
       </div>
       <div class="content">
