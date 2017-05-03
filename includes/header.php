@@ -50,7 +50,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
 <![endif]-->
   </head>
-  <body>
+  <body class="<?php if($_SERVER['SCRIPT_NAME'] == '/beta.php') { print 'front';}?>">
     <div id="container">
       <div class="content">
         <h1>Snap Infraction
@@ -59,15 +59,15 @@
         </h2>
         <ul id="menu">
           <li>
-            <a href="#music">Music
+            <a href="/index.php#music">Music
             </a>
           </li>
           <li>
-            <a href="#bio">Bio
+            <a href="/index.php#bio">Bio
             </a>
           </li>
           <li>
-            <a href="#follow">Follow
+            <a href="/index.php#follow">Follow
             </a>
           </li>
         </ul>
