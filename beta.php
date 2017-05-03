@@ -14,10 +14,6 @@ require_once($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
             </a>
           </li>
           <li>
-            <a href="#video">Video
-            </a>
-          </li>
-          <li>
             <a href="#bio">Bio
             </a>
           </li>
@@ -42,19 +38,19 @@ require_once($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
         </h5>
         <ul class="links" id="buy">
           <li class="store-icon">
-            <a class="itunes-icon" title="iTunes" href="">iTunes
+            <a class="itunes-icon" title="iTunes" href="http://itunes.apple.com/album/id1228275556?ls=1&app=itunes">iTunes
             </a>
           </li>
           <li class="store-icon">
-            <a class="amazon-icon" title="Amazon" href="">Amazon
+            <a class="amazon-icon" title="Amazon" href="https://www.amazon.com/Chin-Music-Snap-Infraction/dp/B06ZYVDD8G/ref=sr_1_1?ie=UTF8&qid=1493778788&sr=8-1&keywords=snap+infraction">Amazon
             </a>
           </li>
           <li class="store-icon">
-            <a class="googleplay-icon" title="Google Play" href="">Google Play
+            <a class="googleplay-icon" title="Google Play" href="https://play.google.com/store/music/artist/Snap_Infraction?id=Atppjybgm47rz6xafn4dq77pv6e">Google Play
             </a>
           </li>
           <li class="store-icon">
-            <a class="spotify-icon" title="Spotify" href="">Spotify</a>
+            <a class="spotify-icon" title="Spotify" href="https://open.spotify.com/artist/4h7OOq0TgltrYLn6MHJcPe">Spotify</a>
           </li>
         </ul>
       </div>
@@ -96,17 +92,6 @@ require_once($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
         </p>
       </div>
       <div id="slide3">
-      </div>
-      <div class="content">
-        <a name="video">
-        </a>
-        <h3>Video
-        </h3>
-        <iframe id="video-player" src="https://player.vimeo.com/video/20545285?title=0&byline=0&portrait=0" width="640" height="320" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
-        </iframe>
-        <p>&nbsp;</p>
-      </div>
-      <div id="slide4">
       </div>
       <div class="content">
         <a name="bio">

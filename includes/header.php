@@ -43,7 +43,7 @@
     <meta name="msapplication-square310x310logo" content="/img/favicons/mstile-310x310.png" />
     
     
-    <link rel="stylesheet" href="/css/styles.css?v=1.0">
+    <link rel="stylesheet" href="/css/styles.css?ptime=<?php print(time()); ?>">
     <!--link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,700,300' rel='stylesheet' type='text/css' -->
     
     <!--[if lt IE 9]>

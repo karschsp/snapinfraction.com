@@ -30,7 +30,7 @@ strong {
 #container {
     /* display: flex;
     display: -webkit-flex; */
-    background: url('/img/opt/crowd.jpg') 0 80% no-repeat;
+    background: url('/img/opt/crowd.jpg') 0 70% no-repeat;
     width: 100%;
     margin-left: auto;
     margin-right: auto;
@@ -63,7 +63,7 @@ h3 {
     padding-left: 0;
 }
 #buy {
-    display: inline-block;
+    text-align: center;
 }
 #buy li {
     display: inline;
@@ -88,8 +88,10 @@ li.store-icon a {
     display: inline-block;
     text-indent: -9999px;
     background-repeat: no-repeat;
-    height: 125px;
-    width: 125px;    
+    height: 100px;
+    width: 100px;
+    background-size: 100px 100px;    
+    padding-bottom: 24px;
 }
 
 .itunes-icon {
@@ -116,6 +118,7 @@ li.store-icon a {
     font-weight: 300;
     letter-spacing: 1px;
     font-size: 2vw;
+    text-transform: uppercase;
 }
 #follow {
     margin-top: 0;
@@ -170,6 +173,11 @@ li.store-icon a {
     font-weight: normal;
     text-align: left;
 }
+
+.content a {
+  text-transform: none;
+}
+
 footer.content {
     text-align: center;
     margin-top: 24px;
@@ -181,6 +189,7 @@ footer.content {
         font-weight: 300;
         letter-spacing: 1px;
         font-size: 48px;
+        text-transform: uppercase;
     }      
     .content {
         width: 90%;
