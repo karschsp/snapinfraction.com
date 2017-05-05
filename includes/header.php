@@ -42,7 +42,7 @@
     <meta name="msapplication-wide310x150logo" content="/img/favicons/mstile-310x150.png" />
     <meta name="msapplication-square310x310logo" content="/img/favicons/mstile-310x310.png" />
     
-    
+    <!-- meta name="viewport" content="width=device-width" / -->
     <link rel="stylesheet" href="/css/styles.css?ptime=<?php print(time()); ?>">
     <!--link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,700,300' rel='stylesheet' type='text/css' -->
     
