@@ -12,13 +12,12 @@ require_once($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
         </h3>
         <h4>Chin Music
         </h4>
-        <iframe src="https://embed.spotify.com/?uri=spotify%3Aalbum%3A1yYX10WZXRXc56kawEORiP" width="100%" height="380" frameborder="0" allowtransparency="true">
-        </iframe>
+        <iframe src="https://embed.spotify.com/?uri=spotify%3Aalbum%3A1SByLxhb6krGFjvCMaWOKA" width="100%" height="380" frameborder="0" allowtransparency="true"></iframe>
         <h5>Buy:
         </h5>
         <ul class="links" id="buy">
           <li class="store-icon">
-            <a class="itunes-icon" title="iTunes" href="http://itunes.apple.com/album/id1228275556?ls=1&app=itunes">iTunes
+            <a class="itunes-icon" title="iTunes" href="https://itunes.apple.com/us/album/chin-music-ep/id1228275556">iTunes
             </a>
           </li>
           <li class="store-icon">
@@ -26,11 +25,11 @@ require_once($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
             </a>
           </li>
           <li class="store-icon">
-            <a class="googleplay-icon" title="Google Play" href="https://play.google.com/store/music/artist/Snap_Infraction?id=Atppjybgm47rz6xafn4dq77pv6e">Google Play
+            <a class="googleplay-icon" title="Google Play" href="https://play.google.com/store/music/album/Snap_Infraction_Chin_Music?id=Bkejf33cch46hemrets7tizrafm">Google Play
             </a>
           </li>
           <li class="store-icon">
-            <a class="spotify-icon" title="Spotify" href="https://open.spotify.com/artist/4h7OOq0TgltrYLn6MHJcPe">Spotify</a>
+            <a class="spotify-icon" title="Spotify" href="https://open.spotify.com/album/1SByLxhb6krGFjvCMaWOKA">Spotify</a>
           </li>
         </ul>
       </div>
