@@ -12,7 +12,7 @@ require_once($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
         </h3>
         <h4>Chin Music
         </h4>
-        <iframe src="https://embed.spotify.com/?uri=spotify%3Aalbum%3A1SByLxhb6krGFjvCMaWOKA" width="100%" height="380" frameborder="0" allowtransparency="true"></iframe>
+        <iframe src="https://open.spotify.com/embed?uri=spotify:album:1SByLxhb6krGFjvCMaWOKA" width="100%" height="380" frameborder="0" allowtransparency="true"></iframe>
         <h5>Buy:
         </h5>
         <ul class="links" id="buy">
@@ -112,6 +112,9 @@ require_once($_SERVER['DOCUMENT_ROOT'] . '/includes/header.php');
             <a href="https://instagram.com/snapinfraction" class="instagram-follow-button">
               <img src="/img/opt/instagram-icon.png" alt="Follow @snapinfraction on Instagram" />
             </a>
+          </li>
+          <li>
+<iframe src="https://open.spotify.com/follow/1/?uri=spotify:artist:4h7OOq0TgltrYLn6MHJcPe&size=detail&theme=dark&show-count=0" width="300" height="56" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe>
           </li>
           <!-- li>
             <iframe allowtransparency="true" scrolling="no" frameborder="no" src="https://w.soundcloud.com/icon/?url=http%3A%2F%2Fsoundcloud.com%2Fsnapinfraction&color=black_white&size=50" style="width: 50px; height: 50px;">
